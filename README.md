@@ -6,7 +6,7 @@
 Explored relationship between Bitcoin market sentiment (Fear/Greed Index) and trader performance using the datasets provided in the assignment.
 
 ## Datasets Used (Original Links)
-- Historical Trader Data: https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+- Historical Trader Data: https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 - Fear & Greed Index: https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
 
 ## Key Findings
